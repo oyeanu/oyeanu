@@ -2,31 +2,31 @@
   <img src="https://your-banner-image-url.com" alt="ANSAR Banner" width="100%">
 </p>
 
-<h1 align="center" style="font-family: 'Roboto Rounded', sans-serif; font-size: 4rem; color: #4a4a4a;">
-  ANSAR
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 4rem; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  ✨ Wellcome Thanks For Visting Here ✨
 </h1>
 
-<p align="center" style="font-family: 'Roboto Rounded', sans-serif; font-size: 1.5rem; color: #757575;">
-  🎨 Web Designer | 🎬 Video Editor
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.5rem; color: #6a11cb;">
+  🎨 Web Designer & 🎬 Video Editor Extraordinaire
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oyeanu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=oyeanu&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Visitors" />
 </p>
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+<hr style="border: 0; height: 3px; background-image: linear-gradient(to right, #f06, #9f6, #06f, #f06);">
 
-<h2 align="center" style="font-family: 'Roboto Rounded', sans-serif; color: #4a4a4a;">
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #6a11cb;">
   🚀 About Me
 </h2>
 
-<p align="center" style="font-family: 'Roboto Rounded', sans-serif; color: #757575; max-width: 600px; margin: 0 auto;">
-  Passionate web designer and video editor with a flair for creating visually stunning and user-friendly digital experiences. I blend creativity with technical expertise to bring ideas to life on screen.
+<p align="center" style="font-family: 'Poppins', sans-serif; color: #333; max-width: 600px; margin: 0 auto; background: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  Passionate creator of digital wonders! 🌟 I transform ideas into captivating websites and breathe life into videos. With a palette of pixels and a timeline of dreams, I craft experiences that leave lasting impressions. Let's turn your vision into a digital masterpiece! 🎭✨
 </p>
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+<hr style="border: 0; height: 3px; background-image: linear-gradient(to right, #f06, #9f6, #06f, #f06);">
 
-<h2 align="center" style="font-family: 'Roboto Rounded', sans-serif; color: #4a4a4a;">
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #6a11cb;">
   🛠️ Skills & Tools
 </h2>
 
@@ -39,24 +39,24 @@
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
 </p>
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+<hr style="border: 0; height: 3px; background-image: linear-gradient(to right, #f06, #9f6, #06f, #f06);">
 
-<h2 align="center" style="font-family: 'Roboto Rounded', sans-serif; color: #4a4a4a;">
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #6a11cb;">
   📊 GitHub Stats
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyeanu&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oyeanu&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyeanu&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyeanu&theme=radical" alt="GitHub Streak" />
 </p>
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+<hr style="border: 0; height: 3px; background-image: linear-gradient(to right, #f06, #9f6, #06f, #f06);">
 
-<h2 align="center" style="font-family: 'Roboto Rounded', sans-serif; color: #4a4a4a;">
-  🌐 Connect with Me
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #6a11cb;">
+  🌐 Let's Connect and Create Magic!
 </h2>
 
 <p align="center">
@@ -66,16 +66,13 @@
   <a href="YOUR_BEHANCE_URL" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </p>
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+<hr style="border: 0; height: 3px; background-image: linear-gradient(to right, #f06, #9f6, #06f, #f06);">
 
-<p align="center" style="font-family: 'Roboto Rounded', sans-serif; color: #757575;">
-  Thanks for visiting my profile! Feel free to explore my repositories and reach out for exciting collaborations.
+<p align="center" style="font-family: 'Poppins', sans-serif; color: #6a11cb; font-size: 1.2rem;">
+  ✨ Thanks for stopping by! Let's create something extraordinary together! ✨
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto+Rounded:wght@400;700&display=swap');
-</style>
