@@ -10,11 +10,10 @@ Passionate creator of digital wonders! 🌟 I transform ideas into captivating w
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-oyeanu.github.io%20%E2%86%92-blue?style=for-the-badge&labelColor=302d41&color=b7bdf8)](https://oyeanu.github.io)
 </div>
 <div align="center">
+<a href="https://github.com/oyeanu"><img src="https://gh-readme-profile.vercel.app/api?username=oyeanu&theme=catppuccin-macchiato" alt="Profile Card" width="50%"></a>
 <a href="https://github.com/oyeanu"><img src="https://github-readme-stats.vercel.app/api?username=oyeanu&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&show_icons=true" alt="Stat's Card" width="50%"></a>
 
 <a href="https://github.com/oyeanu"><img src="https://streak-stats.demolab.com?user=oyeanu&theme=catppuccin-macchiato" alt="Streak's Card" width="50%"></a>
-
-<a href="https://github.com/oyeanu"><img src="https://gh-readme-profile.vercel.app/api?username=oyeanu&theme=catppuccin-macchiato" alt="Profile Card" width="50%"></a>
 
 <a href="https://github.com/oyeanu"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oyeanu&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false&exclude_repo=itsanu.github.io,oyeanu" alt="Top Langs Card" width="50%"></a>
 
