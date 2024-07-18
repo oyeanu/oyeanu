@@ -1,6 +1,6 @@
 <p align="center">
     
-![GitHub Cover](https://user-images.githubusercontent.com/52236473/216836058-42e481ae-f745-46af-9407-4fb20800d7ec.png)
+![GitHub Cover](https://raw.githubusercontent.com/oyeanu/oyeanu/main/b1.gif)
 
 </p>
 
