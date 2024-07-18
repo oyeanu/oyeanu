@@ -1,34 +1,32 @@
 <div align="center">
-  <a href="https://github.com/FajarKim"><img src="images/photo-profile.png" width="130" alt="Fajar Kim"></a>
-  <h2>Fajar Kim</h2>
+  <a href="https://github.com/oyeanu"><img src="images/photo-profile.png" width="130" alt="ANSAR"></a>
+  <h2>ANSAR</h2>
 </div>
 
-Hello everyone 👋🏻! I'm Rangga, you can call me Fajar 😊. I come from Garut, West Java, Indonesia 🇮🇩. I am a student of Science programme ⚗️ 🔬. In the world of programming, I prefer to create encrypting codes for several programming languages. Greetings everyone!!!
-
-Oh, do you need an Indonesian translator? Feel free to chat with me. Insyaa Allah, I will do it well 😉
+Passionate creator of digital wonders! 🌟 I transform ideas into captivating websites and breathe life into videos. With a palette of pixels and a timeline of dreams, I craft experiences that leave lasting impressions. Let's turn your vision into a digital masterpiece! 🎭✨
 
 <div align="center">
 
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-fajarkim.github.io%20%E2%86%92-blue?style=for-the-badge&labelColor=302d41&color=b7bdf8)](https://fajarkim.github.io)
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-oyeanu.github.io%20%E2%86%92-blue?style=for-the-badge&labelColor=302d41&color=b7bdf8)](https://oyeanu.github.io)
 </div>
 
-<a href="https://github.com/FajarKim"><img src="https://github-readme-stats.vercel.app/api?username=FajarKim&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&show_icons=true" alt="Stat's Card" width="100%"></a>
+<a href="https://github.com/oyeanu"><img src="https://github-readme-stats.vercel.app/api?username=oyeanu&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&show_icons=true" alt="Stat's Card" width="100%"></a>
 
-<a href="https://github.com/FajarKim"><img src="https://streak-stats.demolab.com?user=FajarKim&theme=catppuccin-macchiato" alt="Streak's Card" width="100%"></a>
+<a href="https://github.com/oyeanu"><img src="https://streak-stats.demolab.com?user=oyeanu&theme=catppuccin-macchiato" alt="Streak's Card" width="100%"></a>
 
-<a href="https://github.com/FajarKim"><img src="https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=catppuccin-macchiato" alt="Profile Card" width="100%"></a>
+<a href="https://github.com/oyeanu"><img src="https://gh-readme-profile.vercel.app/api?username=oyeanu&theme=catppuccin-macchiato" alt="Profile Card" width="100%"></a>
 
-<a href="https://github.com/FajarKim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false&exclude_repo=fajarkim.github.io,FajarKim" alt="Top Langs Card" width="100%"></a>
+<a href="https://github.com/oyeanu"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oyeanu&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false&exclude_repo=itsanu.github.io,oyeanu" alt="Top Langs Card" width="100%"></a>
 
 ## Contact Me
 Have any questions for me? Or do you want to raise any issues related to problems with this tool? Feel free to contact me using the information below 😉
 
 <div align="center">
 
-[![WhatsApp](images/icons/whatsapp-icon.svg)](https://wa.me/6285659850910)
-[![Email](images/icons/mail-icon.svg)](mailto:fajarrkim@gmail.com)
-[![Telegram](images/icons/telegram-icon.svg)](https://t.me/FajarThea)
-[![Messenger](images/icons/messenger-icon.svg)](https://m.me/fajarrkim)
+[![WhatsApp](images/icons/whatsapp-icon.svg)](https://wa.me/+923435020015)
+[![Email](images/icons/mail-icon.svg)](mailto:ansar3k@gmail.com)
+[![Telegram](images/icons/telegram-icon.svg)](https://t.me/oyeanu)
+
 </div>
 
 ## Media Social
