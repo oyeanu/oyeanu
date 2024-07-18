@@ -1,9 +1,10 @@
-<div align="center">
-  <a href="https://github.com/oyeanu"><img src="https://raw.githubusercontent.com/oyeanu/oyeanu/main/b1.gif" width="100%" alt="ANSAR"></a>
+<p align="center">
+  <img src="https://github.com/oyeanu/oyeanu/blob/main/b1.gif?raw=true" alt="ANSAR Banner" width="100%">
+</p>
   <h2>ANSAR</h2>
 </div>
 
-Passionate creator of digital wonders! 🌟 I transform ideas into captivating websites and breathe life into videos. With a palette of pixels and a timeline of dreams, I craft experiences that leave lasting impressions. Let's turn your vision into a digital masterpiece! 🎭✨
+Passionate creator of digital wonders! 🌟 
 
 <div align="center">
 
