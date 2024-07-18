@@ -43,18 +43,14 @@ Do you want to check out my social media accounts? Okayy, feel free to click the
 
 ## Donate
 Love my project? Please consider donating to help it improve!
-<div align="left">
+<div align="center">
     <a href="https://github.com/sponsors/oyeanu/"><img src="https://img.shields.io/badge/GitHub-Sponsor-blue?labelColor=302d41&color=f5bde6&logo=github&logoColor=d9e0ee&style=for-the-badge" alt="GitHub Sponsor"></a>
     <a href="https://paypal.me/aqeebmughal/"><img src="https://img.shields.io/badge/PayPal-Donate-blue?labelColor=302d41&color=f4dbd6&logo=paypal&logoColor=d9e0ee&style=for-the-badge" alt="PayPal Donate"></a>
     <a href="https://buymeacoffee.com/oyeanu/"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-blue?labelColor=302d41&color=eed49f&logo=buymeacoffee&logoColor=d9e0ee&style=for-the-badge" alt="Buy Me a Coffee"></a>
     
 </div>
 
-Are you considering supporting my project by donating to me? Please DO NOT!!
-
-## Holopin Badges
-<p align="center"><a href="https://holopin.io/@oyeanu"><img src="https://holopin.me/oyeanu" alt="@oyeanu&#39;s Holopin board"></a></p>
 
 ![Line](images/line.svg)
 
-<p align="center"><sub>Made with ❤️</br>Copyright © 2024-present Ansar</sub></p>
+<p align="center"><sub>Made with ❤️</br>Copyright © 2024 Ansar</sub></p>
