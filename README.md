@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 4rem; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  ✨ Wellcome Thanks For Visting Here ✨
+  ✨ Thanks For Vist ✨
 </h1>
 
 <p align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.5rem; color: #6a11cb;">
@@ -60,11 +60,9 @@
 </h2>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_TWITTER_URL" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="AnsarMughal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="YOUR_INSTAGRAM_URL" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="YOUR_BEHANCE_URL" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
-</p>
+  </p>
 
 <hr style="border: 0; height: 3px; background-image: linear-gradient(to right, #f06, #9f6, #06f, #f06);">
 
