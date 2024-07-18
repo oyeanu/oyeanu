@@ -33,7 +33,7 @@ Do you want to check out my social media accounts? Okayy, feel free to click the
 
 <div align="center">
 
-[![Facebook](images/icons/facebook-icon.svg)](https://facebook.com/oye.anu.1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/oye.anu.1)
 [![Instagram](images/icons/instagram-icon.svg)](https://instagram.com/ig_anssar)
 [![Twitter](images/icons/twitter-x-icon.svg)](https://twitter.com/AnsarMughal)
 [![TikTok](images/icons/tiktok-icon.svg)](https://tiktok.com/@Oyeanu)
