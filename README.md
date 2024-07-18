@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/oyeanu/oyeanu/blob/main/b1.gif?raw=true" alt="ANSAR Banner" width="100%">
 </p>
-  <h2>ANSAR</h2>
+ 
+ <div align="center">
+  ###  <h2>ANSAR</h2>
 </div>
 
 Passionate creator of digital wonders! 🌟 
