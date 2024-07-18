@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oyeanu/oyeanu/main/b1.gif" alt="ANSAR Banner" width="100%">
+    
+![GitHub Cover](https://user-images.githubusercontent.com/52236473/216836058-42e481ae-f745-46af-9407-4fb20800d7ec.png)
+
 </p>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 4rem; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
