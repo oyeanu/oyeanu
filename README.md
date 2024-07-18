@@ -2,9 +2,7 @@
   <img src="https://github.com/oyeanu/oyeanu/blob/main/b1.gif?raw=true" alt="ANSAR Banner" width="100%">
 </p>
  
- <div align="center">
-   <h2>ANSAR</h2>
-### Web Designer & 🎬 Video Editor Extraordinaire
+Web Designer & 🎬 Video Editor Extraordinaire
  🌟 
 
 </div>
