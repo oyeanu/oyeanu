@@ -22,9 +22,9 @@ Have any questions for me? Or do you want to raise any issues related to problem
 
 <div align="center">
 
-[![WhatsApp](images/icons/whatsapp-icon.svg)](https://wa.me/+923435020015)
-[![Email](images/icons/mail-icon.svg)](mailto:ansar3k@gmail.com)
-[![Telegram](images/icons/telegram-icon.svg)](https://t.me/oyeanu)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+923435020015)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ansar3k@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/oyeanu)
 
 </div>
 
@@ -34,10 +34,10 @@ Do you want to check out my social media accounts? Okayy, feel free to click the
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/oye.anu.1)
-[![Instagram](images/icons/instagram-icon.svg)](https://instagram.com/ig_anssar)
-[![Twitter](images/icons/twitter-x-icon.svg)](https://twitter.com/AnsarMughal)
-[![TikTok](images/icons/tiktok-icon.svg)](https://tiktok.com/@Oyeanu)
-[![YouTube](images/icons/youtube-icon.svg)](https://www.youtube.com/@AnssTech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_anssar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnsarMughal)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@Oyeanu)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AnssTech)
 </div>
 
 ## Donate
