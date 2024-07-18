@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/oyeanu"><img src="https://github.com/oyeanu/oyeanu/blob/main/b1.gif?raw=true" width="50%" alt="ANSAR"></a>
+  <a href="https://github.com/oyeanu"><img src="https://raw.githubusercontent.com/oyeanu/oyeanu/main/b1.gif" width="50%" alt="ANSAR"></a>
   <h2>ANSAR</h2>
 </div>
 
