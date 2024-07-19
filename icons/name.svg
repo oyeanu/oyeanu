@@ -17,7 +17,7 @@
       transform:translate(50%, 0%);
       fill:white;
       font-weight:bold;
-      animation: text-animation 3s infinite;
+      animation: text-animation 7s infinite;
     }
     
     #subtext {
