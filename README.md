@@ -1,6 +1,6 @@
 <p align="center">
     
-![GitHub Cover](https://raw.githubusercontent.com/oyeanu/oyeanu/main/icons/name.svg)
+![GitHub Cover](https://github.com/oyeanu/oyeanu/raw/main/icons/name.svg)
 
 </p>
 
