@@ -1,7 +1,6 @@
 <p align="center">
     
-![GitHub Cover](https://github.com/oyeanu/oyeanu/raw/main/icons/name.svg)
-
+![Ansar Mughal's GitHub Banner](github-banner.svg)
 </p>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 4rem; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
