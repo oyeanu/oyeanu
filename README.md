@@ -57,7 +57,7 @@ Have any questions for me? Or do you want to raise any issues related to problem
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+923438020015)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ansar3k@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/oyeanu)
-
+[![WhatsApp](icons/whatsapp.svg)](https://wa.me/+923435020015)
 </div>
 
 ### Social Media 
