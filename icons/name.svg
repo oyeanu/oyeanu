@@ -1,4 +1,4 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='30%' height='30%' viewBox='0 0 50 50'>
+<svg xmlns='http://www.w3.org/2000/svg' width='0%' height='0%' viewBox='0 0 50 50'>
   
   <defs>
     
@@ -29,7 +29,7 @@
     @keyframes text-animation {
       
       from {
-        letter-spacing: -0.5em;
+        letter-spacing: 1em;
         opacity:0
       }
       
