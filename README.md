@@ -65,11 +65,10 @@ Do you want to check out my social media accounts? Okayy, feel free to click the
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/oye.anu.1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_anssar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnsarMughal)
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@Oyeanu)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AnssTech)
+[![Facebook](icons/facebook.svg)](https://facebook.com/oye.anu.1)
+[![Twitter](icons/twitter.svg)](https://twitter.com/AnsarMughal)
+[![TikTok](icons/tiktok.svg)](https://tiktok.com/@Oyeanu)
+[![YouTube](icons/Youtube.svg)](https://www.youtube.com/@AnssTech)
 </div>
 
 ## Donate
