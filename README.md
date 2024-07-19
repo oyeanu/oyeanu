@@ -54,7 +54,7 @@ Have any questions for me? Or do you want to raise any issues related to problem
 
 <div align="center">
 
-[![WhatsApp](icons/whatsapp.svg))](https://wa.me/+923438020015)
+[![WhatsApp](icons/whatsapp.svg)](https://wa.me/+923438020015)
 [![Gmail](icons/Gmail.svg)](mailto:ansar3k@gmail.com)
 [![Telegram](icons/Telegram.svg)](https://t.me/oyeanu)
 
