@@ -1,6 +1,6 @@
 <p align="center">
     
-![Ansar Mughal's GitHub Banner](github-banner.svg)
+![Ansar Mughal's GitHub Banner](github-banner.PNG)
 </p>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 4rem; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
