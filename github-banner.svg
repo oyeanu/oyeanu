@@ -19,21 +19,25 @@
       fill: url(#titleGradient);
       filter: url(#shadow);
       text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000;
+      animation: typing 5s steps(30, end) infinite;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: .15em solid orange;
     }
     .subtitle { font: bold 24px Arial, sans-serif; fill: #4D96FF; }
     .social { font: bold 16px Arial, sans-serif; }
     @keyframes typing {
-      0%, 100% { clip-path: inset(0 100% 0 0); }
-      50% { clip-path: inset(0 0 0 0); }
+      from { width: 0; }
+      to { width: 100%; }
     }
   </style>
 
-  <text x="400" y="80" text-anchor="middle" class="title" style="animation: typing 12s linear infinite;">
+  <text x="400" y="80" text-anchor="middle" class="title">
     ANSAR MUGHAL
   </text>
 
   <text x="400" y="120" text-anchor="middle" class="subtitle">
-    Video Editor | Adobe Specialist
+    Video Editor | Scrpt Editor
   </text>
 
   <g transform="translate(400, 160)">
