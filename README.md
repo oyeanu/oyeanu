@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11CBF7&width=435&lines=Im+working+on++a+Proxy+Tool+Loon+;Collecting+and+Organize+%26+Maintain;+Loon+Resources+On+Daly+Basis" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11CBF7&width=435&lines=Im+working+on++a+Proxy+Tool+Loon+;Collect+and+Organize+%26+Maintain;+Loon+Resources+On+Daly+Basis" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/oyeanu">ANSAR</a></h3>
